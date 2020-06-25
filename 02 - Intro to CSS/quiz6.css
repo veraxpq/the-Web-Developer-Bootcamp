@@ -1,0 +1,28 @@
+#date {
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+}
+body {
+	font-family: Raleway;
+	border: solid #bdc3c7 20px;
+	padding: 20px;
+	max-width: 700px;
+	width: 80%;
+	margin: 20px auto;
+}
+p {
+	font-weight: 400;
+}
+h2 {
+	color: #2c3e50;
+	font-size: 2.0rem;
+}
+.firstP {
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+}
+hr {
+	margin-bottom: 20px;
+	color: rgba(220, 55, 200, 0.5);
+}
